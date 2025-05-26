@@ -24,34 +24,33 @@ export class Client extends SapphireClient implements IClient {
 				Partials.Message,
 				Partials.GuildMember,
 			],
-            loadMessageCommandListeners: true,
+			loadMessageCommandListeners: true,
 		});
 		this.mode = process.argv.slice(2).includes("--dev") ? "dev" : "prod";
 	}
 
 	public override async login() {
 		this.database = new database();
-		this.database.createFolder()
+		this.database.createFolder();
 		this.database
 			.open()
 			.then(() => {
 				container.logger.info("Database opened");
-				
 			})
 			.catch((err) => {
 				container.logger.error(`Error opening database: ${err}`);
 			});
 
-		 //homeworkDB
-		 this.database.exec(
+		//homeworkDB
+		this.database.exec(
 			"CREATE TABLE IF NOT EXISTS homeworkExists (id INTEGER PRIMARY KEY AUTOINCREMENT, superID TEXT, title TEXT, forumChannelID TEXT, forumID TEXT)",
 		);
-        container.logger.info(`Logging in...`)
+		container.logger.info(`Logging in...`);
 		return super.login(
 			this.mode == "dev"
 				? process.env.dev_client_token
 				: process.env.prod_client_token,
-		)
+		);
 	}
 }
 

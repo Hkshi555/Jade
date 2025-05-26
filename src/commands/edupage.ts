@@ -9,8 +9,8 @@ import {
 import { Edupage } from "edupage-api";
 import { client } from "../index";
 import fs from "fs";
-import download from "download"
-import { htmlToText } from 'html-to-text';
+import download from "download";
+import { htmlToText } from "html-to-text";
 
 export class EduCommand extends Command {
 	private edupage = new Edupage();
@@ -136,7 +136,7 @@ export class EduCommand extends Command {
 			POG: "1376621116256288839",
 		};
 
-		const startTime = Date.now()
+		const startTime = Date.now();
 		const channels = client.mode == "dev" ? devChannels : mainChannels;
 		const homework = (
 			await Promise.all(
@@ -144,9 +144,15 @@ export class EduCommand extends Command {
 					this.container.logger.info(
 						`Starting processing: ${work.title} (${work.id})`,
 					);
-					if (await this.database.get(`SELECT superID FROM homeworkExists WHERE superID = ${work.superId}`)) {
-						this.container.logger.info(`Already exists skipping: ${work.title} (${work.id})`)
-						return null
+					if (
+						await this.database.get(
+							`SELECT superID FROM homeworkExists WHERE superID = ${work.superId}`,
+						)
+					) {
+						this.container.logger.info(
+							`Already exists skipping: ${work.title} (${work.id})`,
+						);
+						return null;
 					}
 
 					return {
@@ -221,7 +227,10 @@ export class EduCommand extends Command {
 					message: { content: msg },
 				});
 
-				this.database.run("INSERT INTO homeworkExists (superID, title, forumChannelID, forumID) VALUES (?, ?, ?, ?)", [work.superId, work.title, noIdForum.id, forum.id])
+				this.database.run(
+					"INSERT INTO homeworkExists (superID, title, forumChannelID, forumID) VALUES (?, ?, ?, ?)",
+					[work.superId, work.title, noIdForum.id, forum.id],
+				);
 				continue;
 			}
 
@@ -251,7 +260,9 @@ export class EduCommand extends Command {
     "Time": "${materialData.timestamp.split(" ")[0]}"
 }\`\`\``;
 
-			this.container.logger.info(`Creating forum Thread for ${work.title}`)
+			this.container.logger.info(
+				`Creating forum Thread for ${work.title}`,
+			);
 			const forumChan: ThreadChannel = await forum.threads
 				.create({
 					name: title,
@@ -268,8 +279,7 @@ export class EduCommand extends Command {
 			const text: string[] = [];
 			const files: { src: string; name: string }[] = [];
 			const videos: string[] = [];
-			const images: { src: string; name: string }[] = []
-
+			const images: { src: string; name: string }[] = [];
 
 			for (const id of materialData.cardids) {
 				const data = await materialData.cardsData[id];
@@ -314,7 +324,7 @@ export class EduCommand extends Command {
 							...widget.props.files.map((file) => {
 								return {
 									src: file.src,
-									name: `${Math.random()}file_${file.name}`
+									name: `${Math.random()}file_${file.name}`,
 								};
 							}),
 						);
@@ -322,13 +332,13 @@ export class EduCommand extends Command {
 
 					if (widget.widgetClass == "ImageETestWidget") {
 						images.push(
-							...widget.props.src.map(img => {
+							...widget.props.src.map((img) => {
 								return {
 									src: img.src,
-									name: `${Math.random()}img_${img.name}`
-								}
-							})	
-						)
+									name: `${Math.random()}img_${img.name}`,
+								};
+							}),
+						);
 					}
 
 					if (widget.widgetClass == "OrderingAnswerETestWidget") {
@@ -338,8 +348,6 @@ export class EduCommand extends Command {
 					if (widget.widgetClass == "TitleETestWidget") {
 						// TODO
 					}
-
-
 
 					if (widget.widgetClass == "TextETestWidget") {
 						const htmlText = this.stripHtmlTags(
@@ -370,50 +378,63 @@ export class EduCommand extends Command {
 						}
 					}
 				}
-
-				
 			}
-			for (const str of this.removeDuplicateYouTubeLinks([...text, ...videos])) {
+			for (const str of this.removeDuplicateYouTubeLinks([
+				...text,
+				...videos,
+			])) {
 				if (str.length === 0) continue;
 
-				
-				await messageChannel.send({ content: htmlToText(str, {wordwrap: false}) }).catch(err => {
-					console.error(err);
-					return
-				});
+				await messageChannel
+					.send({ content: htmlToText(str, { wordwrap: false }) })
+					.catch((err) => {
+						console.error(err);
+						return;
+					});
 			}
-			
-			for (const file of files) {				
-				const fileUrl = "https://sps-snina.edupage.org" + file.src;
-				await download(fileUrl, './', { filename: file.name });
-				await messageChannel.send({ files: [{ attachment: `./${file.name}` }] }).then(() => {
-					fs.unlinkSync(`./${file.name}`);
-				}).catch(err => {
-					console.error(err);
-					return
-				});
 
+			for (const file of files) {
+				const fileUrl = "https://sps-snina.edupage.org" + file.src;
+				await download(fileUrl, "./", { filename: file.name });
+				await messageChannel
+					.send({ files: [{ attachment: `./${file.name}` }] })
+					.then(() => {
+						fs.unlinkSync(`./${file.name}`);
+					})
+					.catch((err) => {
+						console.error(err);
+						return;
+					});
 			}
 
 			for (const img of images) {
 				const fileUrl = "https://sps-snina.edupage.org" + img.src;
-				await download(fileUrl, './', { filename: img.name });
-				await messageChannel.send({ files: [{ attachment: `./${img.name}` }] }).then(() => {
-					fs.unlinkSync(`./${img.name}`);
-				}).catch(err => {
-					console.error(err);
-					return
-				});
+				await download(fileUrl, "./", { filename: img.name });
+				await messageChannel
+					.send({ files: [{ attachment: `./${img.name}` }] })
+					.then(() => {
+						fs.unlinkSync(`./${img.name}`);
+					})
+					.catch((err) => {
+						console.error(err);
+						return;
+					});
 			}
 
-			this.database.run("INSERT INTO homeworkExists (superID, title, forumChannelID, forumID) VALUES (?, ?, ?, ?)", [work.superId, work.title, forumChan.id, forum.id])
+			this.database.run(
+				"INSERT INTO homeworkExists (superID, title, forumChannelID, forumID) VALUES (?, ?, ?, ?)",
+				[work.superId, work.title, forumChan.id, forum.id],
+			);
 		}
 		const endTime = Date.now();
-		
-		interaction.editReply(`Processing completed [${endTime - startTime}ms].`);
-		this.container.logger.info(`Processing assignments took: ${endTime - startTime}ms`);
-        this.edupage.exit();
 
+		interaction.editReply(
+			`Processing completed [${endTime - startTime}ms].`,
+		);
+		this.container.logger.info(
+			`Processing assignments took: ${endTime - startTime}ms`,
+		);
+		this.edupage.exit();
 	}
 	public async messageRun(message) {}
 
