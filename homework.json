@@ -1,0 +1,3541 @@
+[
+	{
+		"id": "subid:CC83CEB72F31E6A1",
+		"superId": "16319",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Opakovacia písomka Test 4",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:CECDE187A1651880",
+		"superId": "16408",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Inverzná funkcia + log grafy",
+		"type": "exam"
+	},
+	{
+		"id": "subid:0FF202E3A07DA5F7",
+		"superId": "16439",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Prvé podmienkové vety",
+		"type": "exam"
+	},
+	{
+		"id": "subid:93CC974ADEA5FE6C",
+		"superId": "16459",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": { "id": "35466", "name": "ruský jazyk", "shortName": "RUJ" },
+		"title": "Šport ",
+		"type": "exam"
+	},
+	{
+		"id": "subid:CC146630D63F3274",
+		"superId": "16678",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Exponenciálne rovnice",
+		"type": "exam"
+	},
+	{
+		"id": "subid:53B85B996DF28800",
+		"superId": "16705",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Computer, keyboard , mouse, PC system",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:3D8A7A01FAB6AF2C",
+		"superId": "16839",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Praktická úloha",
+		"type": "exam"
+	},
+	{
+		"id": "subid:AF39CF8F99D3683A",
+		"superId": "16838",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "Príkazy HTML",
+		"type": "exam"
+	},
+	{
+		"id": "subid:A7B5A2A5C270A1D0",
+		"superId": "16961",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Opakovanie -Test zo 6. lekcie",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:53F44EDB66F064AD",
+		"superId": "16978",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": { "id": "35466", "name": "ruský jazyk", "shortName": "RUJ" },
+		"title": "Vzťahy medzi ľuďmi ",
+		"type": "exam"
+	},
+	{
+		"id": "subid:73F657B9DA9C2213",
+		"superId": "17239",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Polročná písomka",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:41911D0C6A50804F",
+		"superId": "17248",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Rezy. Objemy a povrchy telies.",
+		"type": "exam"
+	},
+	{
+		"id": "subid:FD83BF8FE1C4487D",
+		"superId": "17311",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Opravné a chýbajúce písomky",
+		"type": "exam"
+	},
+	{
+		"id": "subid:9A6A5AB810115475",
+		"superId": "17344",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Praktická úloha",
+		"type": "exam"
+	},
+	{
+		"id": "subid:62DCEDEF0EAAD8EE",
+		"superId": "17502",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Objemy, povrchy telies + uhol priamok",
+		"type": "exam"
+	},
+	{
+		"id": "subid:BFD3B7D2EECE0179",
+		"superId": "17492",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Opakovacia písomka zo 7. lekcie",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:427591EEA4002EEB",
+		"superId": "17696",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Percentá",
+		"type": "exam"
+	},
+	{
+		"id": "subid:17BFC7850783C5DC",
+		"superId": "17831",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Opakovacia písomka z 8. lekcie",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:45230031C936A5D2",
+		"superId": "17889",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Členy postupnosti",
+		"type": "sexam"
+	},
+	{
+		"id": "subid:1259A8FBF53EE07E",
+		"superId": "18044",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Vlastnosti AP",
+		"type": "exam"
+	},
+	{
+		"id": "subid:7B8A403A58A09B55",
+		"superId": "18241",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Opakovacia písomka z 9.lekcie",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:EC01B881DE69140E",
+		"superId": "18327",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": { "id": "35466", "name": "ruský jazyk", "shortName": "RUJ" },
+		"title": "Rusko",
+		"type": "exam"
+	},
+	{
+		"id": "subid:C73FB78D1A9B9613",
+		"superId": "18328",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Test z 9. lekcie",
+		"type": "bexam"
+	},
+	{
+		"id": "subid:F2FD87540D774412",
+		"superId": "18336",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Faktoriál",
+		"type": "exam"
+	},
+	{
+		"id": "subid:2E9F4119A79F9DEE",
+		"superId": "18434",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Nepriama reč",
+		"type": "exam"
+	},
+	{
+		"id": "superid:18441",
+		"superId": "18441",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Variácie a permutácie",
+		"testId": "425438",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18405",
+		"superId": "18405",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Innovation and invention",
+		"testId": "425403",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18382",
+		"superId": "18382",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Práca so súbormi",
+		"testId": "425382",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:18343",
+		"superId": "18343",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Zdroje jednosmerného prúdu a ich zapojenie",
+		"testId": "425343",
+		"type": "pexam"
+	},
+	{
+		"id": "superid:18335",
+		"superId": "18335",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Výrazy s faktoriálmi",
+		"testId": "425335",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18312",
+		"superId": "18312",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Faktoriál",
+		"testId": "425314",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18302",
+		"superId": "18302",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Kombinatorika - vypisovanie a dva princípy",
+		"testId": "425306",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18299",
+		"superId": "18299",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Socialistický realizmus: str- 173-174",
+		"testId": "425303",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18277",
+		"superId": "18277",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "Prestudovat videopostup zo súboru NOVE - 05change.dwg. ",
+		"testId": "425282",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18276",
+		"superId": "18276",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat 17. kapitolu. V utorok 6.5. sa pripravte na exam z kap. 16. a 17. v netacad.: Checkpoint Exam: Building and Securing a Small Network Exam + checkpointy, ktore vam chybaju!",
+		"testId": "425281",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18273",
+		"superId": "18273",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Zložené úrokovanie",
+		"testId": "425278",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18270",
+		"superId": "18270",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Diskusný príspevok - prečítať kompozíciu, príklady...",
+		"testId": "425264",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18268",
+		"superId": "18268",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Písomné opakovanie celku: Lyrizovaná próza",
+		"testId": "425274",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18242",
+		"superId": "18242",
+		"owner": {
+			"id": "35410",
+			"name": "Štefánia Jankovská",
+			"userString": "Ucitel35410"
+		},
+		"subject": {
+			"id": "35464",
+			"name": "anglický jazyk",
+			"shortName": "ANJ"
+		},
+		"title": "Past simple vs past perfect vs past continuous exercices\nhttps://www.english-4u.de/en/tenses-exercises/past-simple-past-perfect.htm\nhttps://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/",
+		"testId": "425252",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18231",
+		"superId": "18231",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat 17. kapitolu. V utorok 6.5. sa pripravte na exam z kap. 16. a 17. v netacad.: Checkpoint Exam: Building and Securing a Small Network Exam + checkpointy, ktore vam chybaju. V utorok 13.5. sa pripravte na final exam - CCNA: Introduction to Networks Course Final Exam",
+		"testId": "425240",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18202",
+		"superId": "18202",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Úlohy z praxe riešené pomocou AP a GP",
+		"testId": "425211",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18201",
+		"superId": "18201",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Drak sa vracia",
+		"testId": "425210",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18197",
+		"superId": "18197",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitolu 17 a PKA z tejto kapitoly.",
+		"testId": "425207",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18178",
+		"superId": "18178",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prebrana 15.,16 kapitola.\nVypracovane: PKA 16.4.6, PKA16.5.1.\nNajblizsie sa pripravte na exam z kap. 14. a 15. v netacad.: Checkpoint Exam: Network Application Communications Exam. \nPrestudovat kapitolu 17. ",
+		"testId": "425191",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18134",
+		"superId": "18134",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Súčet prvých n členov GP",
+		"testId": "425150",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18125",
+		"superId": "18125",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Kirchhofove rovnice",
+		"testId": "425143",
+		"type": "exam"
+	},
+	{
+		"id": "superid:18113",
+		"superId": "18113",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Geometrická postupnosť",
+		"testId": "425132",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18095",
+		"superId": "18095",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vysvetlena kapitola 14. + DÚ: PKA 14.8.1",
+		"testId": "425115",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18058",
+		"superId": "18058",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Tri gaštanové kone",
+		"testId": "425080",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18054",
+		"superId": "18054",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Grafický plagát-Veľká noc",
+		"testId": "425076",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18040",
+		"superId": "18040",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Vlastnosti AP",
+		"testId": "425062",
+		"type": "hw"
+	},
+	{
+		"id": "superid:18021",
+		"superId": "18021",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vysvetlena kapitola 12. + vypracovany PKA 12.6.6 a PKA 12.9.1. Vysvetlena kapitola 13. + vypracovat PKA 13.2.6, PKA 13.2.7, PKA 13.3.1. \nCheckpoint Exam: z kapitoly 11-13 na najblizsi pondelok v NETACADe.",
+		"testId": "425043",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17998",
+		"superId": "17998",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "R.Dilong",
+		"testId": "424709",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17997",
+		"superId": "17997",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Zostavte Kirchhofove rovnice ",
+		"testId": "425021",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17990",
+		"superId": "17990",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "Doplnkové úlohy",
+		"testId": "425015",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17982",
+		"superId": "17982",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Aritmetická postupnosť",
+		"testId": "425009",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17979",
+		"superId": "17979",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vypracujte LEN - 11.10.2 Packet Tracer - Design and Implement a VLSM Addressing Scheme - Physical Mode - ILM. Prestudujte kapitolu 12.",
+		"testId": "425006",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17972",
+		"superId": "17972",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "10b Test - PKA 10.4.3 - 30 min",
+		"testId": "424999",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17952",
+		"superId": "17952",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Zajtra v utorok z: 10.4.3 Packet Tracer - Basic Device Configuration - ILM. Priprava na PP v pondelok 31.3.2025 - Vypracujte: 11.10.2 Packet Tracer - Design and Implement a VLSM Addressing Scheme - Physical Mode - ILM",
+		"testId": "424980",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17941",
+		"superId": "17941",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "KZ - Zostavenie rovníc ",
+		"testId": "424970",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17934",
+		"superId": "17934",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Organizations 2",
+		"testId": "424964",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17919",
+		"superId": "17919",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "363843",
+			"name": "aplikovaná informatika_p",
+			"shortName": "API"
+		},
+		"title": "AI a jej využitie vo vzdelávacom procese",
+		"testId": "424950",
+		"type": "pexam"
+	},
+	{
+		"id": "superid:17917",
+		"superId": "17917",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Opravná písomka - jednosmerný prúd",
+		"testId": "424948",
+		"type": "exam"
+	},
+	{
+		"id": "superid:17911",
+		"superId": "17911",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Link na download Code Blocks",
+		"testId": "424943",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17904",
+		"superId": "17904",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Kirchhofove zákony",
+		"testId": "424935",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17899",
+		"superId": "17899",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Milo Urban",
+		"testId": "424931",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17872",
+		"superId": "17872",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "04 - PP - 04 tema - mcrs - 30 min",
+		"testId": "424905",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17867",
+		"superId": "17867",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "Prestudovat videopostup zo súboru NOVE - 05change.dwg. ",
+		"testId": "424900",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17866",
+		"superId": "17866",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vysvetlena kapitola 10. Checkpoint Exam: z kapitoly 8-10 na najblizsi pondelok v NETACADe.  DÚ:  10.1.4 Packet Tracer - Configure Initial Router Settings - ILM 10.3.4 Packet Tracer - Connect a Router to a LAN - ILM 10.3.5 Packet Tracer - Troubleshoot Default Gateway Issues - ILM Priprava na PP najblizsi (25.3.) utorok z: 10.4.3 Packet Tracer - Basic Device Configuration - ILM",
+		"testId": "424899",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17861",
+		"superId": "17861",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "09a Test - 09.Introduction to Networks - edu - 25 min (+ opakovanie z CH3-CH8)",
+		"testId": "424895",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17859",
+		"superId": "17859",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Práca s odborným textom",
+		"testId": "424892",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17833",
+		"superId": "17833",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Spôsoby určenia a graf postupnosti",
+		"testId": "424868",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17826",
+		"superId": "17826",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "a najblizsi pondelok je PP z 04mcrs.",
+		"testId": "424861",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17825",
+		"superId": "17825",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Pripravit sa na test z kapitoly 9 (+snimky kap.3-kap.8) na najblizsi pondelok. \nVypracujte tieto PKA: 9.1.3 Packet Tracer - Identify MAC and IP Addresses - ILM,  9.2.9 Packet Tracer - Examine the ARP Table - ILM,  9.3.4 Packet Tracer - IPv6 Neighbor Discovery - ILM.",
+		"testId": "424860",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17824",
+		"superId": "17824",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "08a Test - 08.Network Layer - edu - 25 min (+ opakovanie z CH3-CH7)",
+		"testId": "424859",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17808",
+		"superId": "17808",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "J. Cíger-Hronský",
+		"testId": "424844",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17803",
+		"superId": "17803",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "while a do-while",
+		"testId": "424839",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17782",
+		"superId": "17782",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Plagát - marec mesiac knihy",
+		"testId": "424821",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17781",
+		"superId": "17781",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "363843",
+			"name": "aplikovaná informatika_p",
+			"shortName": "API"
+		},
+		"title": "Fyzika - Jednosmený prúd,Ohmov zákon a odpor",
+		"testId": "424820",
+		"type": "exam"
+	},
+	{
+		"id": "superid:17776",
+		"superId": "17776",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Zavedenie pojmu postupnosť",
+		"testId": "424815",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17773",
+		"superId": "17773",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Pripravit sa na test z kapitoly 8 na najblizsi pondelok",
+		"testId": "424812",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17762",
+		"superId": "17762",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Pripravit sa na test z kapitoly 8 na najblizsi pondelok",
+		"testId": "424801",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17746",
+		"superId": "17746",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Organizations",
+		"testId": "424785",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17719",
+		"superId": "17719",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "učebnica Základy elektrotechniky - str. 89, úlohy 1,2,3 - príprava na písomku",
+		"testId": "424761",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17706",
+		"superId": "17706",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "PL 2",
+		"testId": "424749",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17704",
+		"superId": "17704",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Remarque",
+		"testId": "424748",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17700",
+		"superId": "17700",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Pripravit sa na test z kapitoly 4-7 na najblizsi pondelok.",
+		"testId": "424744",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17694",
+		"superId": "17694",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Percentá",
+		"testId": "424739",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17681",
+		"superId": "17681",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitola 7. Pripravit sa na test z kapitoly 4-7 na najblizsi pondelok. Utorok test z Ch4.",
+		"testId": "424727",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17678",
+		"superId": "17678",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "06a2 Test - 06.Data Link Layer - edu - 25 min ",
+		"testId": "424724",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17672",
+		"superId": "17672",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "SmartBooks - zadanie Ohmov zákon a odpor - riešte úlohy",
+		"testId": "424718",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17671",
+		"superId": "17671",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Elektrický odpor a elektrická vodivosť",
+		"testId": "424717",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17669",
+		"superId": "17669",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Problems at work",
+		"testId": "424715",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17622",
+		"superId": "17622",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Mierka mapy",
+		"testId": "424670",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17621",
+		"superId": "17621",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Katolícka moderna",
+		"testId": "424669",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17619",
+		"superId": "17619",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitola 6. 06a1 - DÚ - cvičenie. Pripravit sa na test z kapitoly 6 na najblizsi pondelok.  Pozriet video 04mcrs.",
+		"testId": "424667",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17603",
+		"superId": "17603",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "06a1 - DÚ - cvičenie",
+		"testId": "424652",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17600",
+		"superId": "17600",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "03 - PP - 23 téma - rot. súč.4",
+		"testId": "424649",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17580",
+		"superId": "17580",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "People and workplaces",
+		"testId": "424629",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17557",
+		"superId": "17557",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Písomné opakovanie celku: Avantgarda",
+		"testId": "424608",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17551",
+		"superId": "17551",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Pomer",
+		"testId": "424602",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17549",
+		"superId": "17549",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Elektrický prúd a prúdová hustota",
+		"testId": "424600",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17548",
+		"superId": "17548",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "363843",
+			"name": "aplikovaná informatika_p",
+			"shortName": "API"
+		},
+		"title": "Tvorba výberového dotazu",
+		"testId": "424599",
+		"type": "exam"
+	},
+	{
+		"id": "superid:17533",
+		"superId": "17533",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitola 6. 06a1 - DÚ - cvičenie. Pripravit sa na test z kapitoly 6 na najblizsi pondelok.",
+		"testId": "424587",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17528",
+		"superId": "17528",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Priama a nepriama úmernosť. Trojčlenka.",
+		"testId": "424582",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17522",
+		"superId": "17522",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Test - Number Systems - 25 min (+ opakovanie z CH3 a CH4)",
+		"testId": "413295",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17521",
+		"superId": "17521",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Cvičenie CH4 binary game",
+		"testId": "420251",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17510",
+		"superId": "17510",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Cvičenie CH3 a CH4 - príprava na test",
+		"testId": "424569",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17488",
+		"superId": "17488",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Pripravit sa na test z kapitol 3,4,5",
+		"testId": "424548",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17487",
+		"superId": "17487",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Cvičný Test 3 - niektoré otázky z budúcich testov",
+		"testId": "413294",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17484",
+		"superId": "17484",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "DÚ - príprava na PP",
+		"testId": "424545",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17455",
+		"superId": "17455",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "úlohy na cyklus for",
+		"testId": "424518",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17445",
+		"superId": "17445",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Pay and benefits",
+		"testId": "424510",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17442",
+		"superId": "17442",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Ohmov zákon",
+		"testId": "424507",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17437",
+		"superId": "17437",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Uhol priamok II.",
+		"testId": "424502",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17429",
+		"superId": "17429",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitolu 5.",
+		"testId": "424495",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17428",
+		"superId": "17428",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "04b Test - PKA 4.7.2 - 30 min",
+		"testId": "424494",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17425",
+		"superId": "17425",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "04 Test - 4. Physical Layer - edu - a",
+		"testId": "424491",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17423",
+		"superId": "17423",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "PL 1",
+		"testId": "424489",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17395",
+		"superId": "17395",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "Najblizsie PP zo súboru NOVE-23tema.dwg a z DÚ 01.",
+		"testId": "424464",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17391",
+		"superId": "17391",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vysvetlena kapitola 4.  Pripravte sa na preskusanie v stredu: Module Quiz, PKA 4.7.1 a PKA 4.7.2 + karty: slepá mapa a OSI a TCP/IP model.",
+		"testId": "424460",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17363",
+		"superId": "17363",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Príkazy vetvenia if a if - else",
+		"testId": "419685",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17362",
+		"superId": "17362",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Cyklus for",
+		"testId": "424435",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17357",
+		"superId": "17357",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "test C úvod",
+		"testId": "424430",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17353",
+		"superId": "17353",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Skills and qualifications",
+		"testId": "424426",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17345",
+		"superId": "17345",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Uhol priamok",
+		"testId": "424416",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17339",
+		"superId": "17339",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Stereometria - základné pojmy",
+		"testId": "424410",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17267",
+		"superId": "17267",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Slovné úlohy na V a S telies",
+		"testId": "424341",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17266",
+		"superId": "17266",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Elektrický prúd  a elektrické napätie",
+		"testId": "424340",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17253",
+		"superId": "17253",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "POG-prak.úloha",
+		"testId": "424327",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17228",
+		"superId": "17228",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "DÚ 01 - precvičte tvorbu súčiastok",
+		"testId": "424303",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17219",
+		"superId": "17219",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "01 Test.01 - PKA 2.9.1 - 30 min - Dudy Koťová",
+		"testId": "424294",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17218",
+		"superId": "17218",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "03b - Test - kapitola 3",
+		"testId": "424293",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17216",
+		"superId": "17216",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Telesá",
+		"testId": "424291",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17186",
+		"superId": "17186",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Zopakovať J. Smrek, E.B. Lukáč",
+		"testId": "424264",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17185",
+		"superId": "17185",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "E.B.Lukáč",
+		"testId": "424263",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17179",
+		"superId": "17179",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Ways of working",
+		"testId": "424257",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17176",
+		"superId": "17176",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Kapacita kondenzátora - riešený príklad z hodiny",
+		"testId": "424254",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17175",
+		"superId": "17175",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Príklady- Coulombov zákon, kapacita kondenzátora a spájanie kondenzátorov",
+		"testId": "424253",
+		"type": "exam"
+	},
+	{
+		"id": "superid:17172",
+		"superId": "17172",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Rezy",
+		"testId": "424250",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17164",
+		"superId": "17164",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "Praktická úloha",
+		"testId": "424243",
+		"type": "exam"
+	},
+	{
+		"id": "superid:17163",
+		"superId": "17163",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": { "id": "83304", "name": "webdesign", "shortName": "WBN" },
+		"title": "3.L wbn-testík ",
+		"testId": "423760",
+		"type": "sexam"
+	},
+	{
+		"id": "superid:17162",
+		"superId": "17162",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Pripomienka: opakovanie úvahy a výkladu platí znova a  pre všetkých",
+		"testId": "424242",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17151",
+		"superId": "17151",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Work and jobs",
+		"testId": "424232",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17149",
+		"superId": "17149",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Vo štvrtok 19.12. bude gramatika: platí znova posledné opakovanie- úvaha, výklad a útvary, v ktorých sa využíva úvaha. Učivo bolo zopakované na hodine.",
+		"testId": "424230",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17146",
+		"superId": "17146",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Spájanie kondenzátorov ",
+		"testId": "424227",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17134",
+		"superId": "17134",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Rez kocky",
+		"testId": "424215",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17114",
+		"superId": "17114",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Rezy telies",
+		"testId": "424196",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17110",
+		"superId": "17110",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "V súbore NOVE-23tema.dwg - precvicit oblast 5 a 6.",
+		"testId": "424192",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17092",
+		"superId": "17092",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Kapacita a kondenzátor",
+		"testId": "424174",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:17090",
+		"superId": "17090",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Stereometria",
+		"testId": "424172",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17087",
+		"superId": "17087",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Stereometria - základné pojmy",
+		"testId": "424169",
+		"type": "etest"
+	},
+	{
+		"id": "superid:17075",
+		"superId": "17075",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "V súbore NOVE-23tema.dwg - precvicit oblast 3, 4 a 7",
+		"testId": "424157",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17072",
+		"superId": "17072",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prestudovat kapitolu 4. \nVypracovať edupage test z DÚ 05.\nPo prazdninach edupage test z DÚ 05.",
+		"testId": "424154",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17057",
+		"superId": "17057",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Na najbližšiu hodinu, teda v stredu 11.12.,si každý prinesie koncept na školskú úlohu pripravený podľa pokynov z konca novembra, ktoré boli znova tento týždeň doplnené konkrétnymi ukážkami a príkladmi",
+		"testId": "424140",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17033",
+		"superId": "17033",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "J. Smrek",
+		"testId": "424119",
+		"type": "hw"
+	},
+	{
+		"id": "superid:17029",
+		"superId": "17029",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Internet",
+		"testId": "424115",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16993",
+		"superId": "16993",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "V súbore NOVE-23tema.dwg - precvicit oblast 1 a 2 ",
+		"testId": "424078",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16985",
+		"superId": "16985",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "DÚ 05: Cvičenie CH3 - príprava na školský test, z netacad test 1-3 v pondelok 9.12.2024",
+		"testId": "424070",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16946",
+		"superId": "16946",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Countable and uncountable nouns",
+		"testId": "424031",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16941",
+		"superId": "16941",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Otázky k riešenej úlohe na str. 31 v učebnici",
+		"testId": "424026",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16940",
+		"superId": "16940",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Intenzita elektrického poľa",
+		"testId": "424025",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16923",
+		"superId": "16923",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Práca na zadaniach",
+		"testId": "424009",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16920",
+		"superId": "16920",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "DÚ - Coulombov zákon",
+		"testId": "424007",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16902",
+		"superId": "16902",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "02 Test - počítanie IP",
+		"testId": "423990",
+		"type": "etest"
+	},
+	{
+		"id": "superid:16884",
+		"superId": "16884",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Krasko , zopakovať literárnu modernu európsku a slovenskú",
+		"testId": "423935",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16867",
+		"superId": "16867",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Slovenská lit. moderna, prečítať báseň Topole",
+		"testId": "423889",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16862",
+		"superId": "16862",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Plurals",
+		"testId": "423952",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16861",
+		"superId": "16861",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Elektrické pole a Coulombov zákon",
+		"testId": "423951",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16857",
+		"superId": "16857",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Logaritmické rovnice",
+		"testId": "423947",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16847",
+		"superId": "16847",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "02 - PP - úvod 2",
+		"testId": "423942",
+		"type": "etest"
+	},
+	{
+		"id": "superid:16845",
+		"superId": "16845",
+		"owner": {
+			"id": "35428",
+			"name": "Adriana Bindzárová",
+			"userString": "Ucitel35428"
+		},
+		"subject": {
+			"id": "83306",
+			"name": "počítačová grafika",
+			"shortName": "POG"
+		},
+		"title": "Praktická úloha - GIMP",
+		"testId": "423940",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16828",
+		"superId": "16828",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "DÚ04 - vypočítajte a skontrolujte IP adresy",
+		"testId": "423923",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16821",
+		"superId": "16821",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "363739",
+			"name": "grafické systémy_p",
+			"shortName": "GRS"
+		},
+		"title": "01 - PP - úvod 1",
+		"testId": "423916",
+		"type": "etest"
+	},
+	{
+		"id": "superid:16810",
+		"superId": "16810",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": {
+			"id": "35546",
+			"name": "občianska náuka",
+			"shortName": "OBN"
+		},
+		"title": "Prezentácia - Aristoteles alebo Platón, minimálne 10 slajdov",
+		"testId": "423905",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16796",
+		"superId": "16796",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Vstup a výstup údajov",
+		"testId": "417556",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16791",
+		"superId": "16791",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Slovenská lit. moderna, prečítať báseň Topole",
+		"testId": "423889",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16786",
+		"superId": "16786",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Screen",
+		"testId": "423884",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16782",
+		"superId": "16782",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Vety o logaritmoch",
+		"testId": "423881",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16764",
+		"superId": "16764",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Logaritmus čísla",
+		"testId": "423865",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16758",
+		"superId": "16758",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "DÚ03 - vypočítajte a skontrolujte IP adresy",
+		"testId": "423860",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16730",
+		"superId": "16730",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": {
+			"id": "35546",
+			"name": "občianska náuka",
+			"shortName": "OBN"
+		},
+		"title": "Vyberte tri frazeologizmy a vysvetlite ich ",
+		"testId": "423834",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16706",
+		"superId": "16706",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Storage devices",
+		"testId": "423812",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16699",
+		"superId": "16699",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "DÚ02 - vypočítajte a skontrolujte IP adresy",
+		"testId": "423805",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16690",
+		"superId": "16690",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "DÚ01 - vypočítajte a skontrolujte IP adresy  ",
+		"testId": "423797",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16677",
+		"superId": "16677",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Stavba hmoty",
+		"testId": "423784",
+		"type": "exam"
+	},
+	{
+		"id": "superid:16669",
+		"superId": "16669",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Preštudovať kapitolu 3. Vypočítajte na papier: 192.168.10.27 /24",
+		"testId": "423776",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16529",
+		"superId": "16529",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Stavba hmoty",
+		"testId": "423649",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16483",
+		"superId": "16483",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Lexikálne jednotky jazyka C",
+		"testId": "423605",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16482",
+		"superId": "16482",
+		"owner": {
+			"id": "35475",
+			"name": "Mária Ortutayová",
+			"userString": "Ucitel35475"
+		},
+		"subject": {
+			"id": "83303",
+			"name": "programovanie",
+			"shortName": "PRO"
+		},
+		"title": "Úvod do programovacieho jazyka C",
+		"testId": "423604",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16479",
+		"superId": "16479",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Exponenciálne rovnice ",
+		"testId": "423601",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16463",
+		"superId": "16463",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": { "id": "35466", "name": "ruský jazyk", "shortName": "RUJ" },
+		"title": "Slovnú zásobu si napíšte do zošita a naučte sa ju. ",
+		"testId": "423587",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16444",
+		"superId": "16444",
+		"owner": {
+			"id": "47552",
+			"name": "Alexandra Čovanová",
+			"userString": "Ucitel47552"
+		},
+		"subject": {
+			"id": "35546",
+			"name": "občianska náuka",
+			"shortName": "OBN"
+		},
+		"title": "Vyberte si tri frazeologizmy a napíšte ich vysvetlenie do zošita/na papier, odfoťte mi to a pošlite.",
+		"testId": "423570",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16426",
+		"superId": "16426",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "What is inside a PC system?",
+		"testId": "423553",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16424",
+		"superId": "16424",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Domáca úloha z 02. Oct 2024",
+		"testId": "423550",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16423",
+		"superId": "16423",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "363843",
+			"name": "aplikovaná informatika_p",
+			"shortName": "API"
+		},
+		"title": "Excel - Pracovný pohovor",
+		"testId": "423549",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16422",
+		"superId": "16422",
+		"owner": {
+			"id": "35457",
+			"name": "Anna Buchlaková",
+			"userString": "Ucitel35457"
+		},
+		"subject": {
+			"id": "47971",
+			"name": "aplikovaná fyzika",
+			"shortName": "AFY"
+		},
+		"title": "Vedecký zápis čísel",
+		"testId": "423548",
+		"type": "etestlesson"
+	},
+	{
+		"id": "superid:16386",
+		"superId": "16386",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Lit. moderna",
+		"testId": "423516",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16369",
+		"superId": "16369",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "Literárna moderna",
+		"testId": "423498",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16366",
+		"superId": "16366",
+		"owner": {
+			"id": "35604",
+			"name": "Jana Semjonová",
+			"userString": "Ucitel35604"
+		},
+		"subject": {
+			"id": "35463",
+			"name": "slovenský jazyk a literatúra",
+			"shortName": "SJL"
+		},
+		"title": "V piatok písomné opakovanie časti kapitoly Náučný štýl",
+		"testId": "423495",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16363",
+		"superId": "16363",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Posunuté grafy logaritmickej funkcie",
+		"testId": "423493",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16359",
+		"superId": "16359",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Pojem a graf logaritmickej funkcie",
+		"testId": "423489",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16334",
+		"superId": "16334",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Naštudovať kapitolu 3. Z PKA 2.9.1 do zošita zapísať postup riešenia. Pripraviť sa na test z kapitol 1-3.",
+		"testId": "423469",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16332",
+		"superId": "16332",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "01 Test.01 - PKA 2.9.1 - 30 min",
+		"testId": "423467",
+		"type": "etest"
+	},
+	{
+		"id": "superid:16314",
+		"superId": "16314",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "Keyboard, mouse",
+		"testId": "423450",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16296",
+		"superId": "16296",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Inverzná funkcia_grafy",
+		"testId": "423433",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16288",
+		"superId": "16288",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Prekontrolovať prihlásenie na teams. Vypracovať a zapísať príkazy do zošita z PKA 2.7.6 a PKA 2.9.1. Prípravte sa na PP (praktické preskúšanie).",
+		"testId": "423427",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16277",
+		"superId": "16277",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Využitie grafu exp. funkcie pri porovnávaní čísel",
+		"testId": "423417",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16262",
+		"superId": "16262",
+		"owner": {
+			"id": "35492",
+			"name": "Mirko Semjon",
+			"userString": "Ucitel35492"
+		},
+		"subject": {
+			"id": "83305",
+			"name": "počítačové siete",
+			"shortName": "PCI"
+		},
+		"title": "Vypracovat a zapisat prikazy do zosita z PKA 2.3.7 a PKA 2.5.5.",
+		"testId": "423404",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16235",
+		"superId": "16235",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Exponenciálna funkcia",
+		"testId": "423378",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16196",
+		"superId": "16196",
+		"owner": {
+			"id": "35449",
+			"name": "Renáta Husťaková",
+			"userString": "Ucitel35449"
+		},
+		"subject": {
+			"id": "83553",
+			"name": "odborná konverzácia v cudzom jazyku",
+			"shortName": "OKD"
+		},
+		"title": "What is a computer?",
+		"testId": "423339",
+		"type": "hw"
+	},
+	{
+		"id": "superid:16192",
+		"superId": "16192",
+		"owner": {
+			"id": "35430",
+			"name": "Viola Fedinová",
+			"userString": "Ucitel35430"
+		},
+		"subject": {
+			"id": "47970",
+			"name": "aplikovaná matematika",
+			"shortName": "APM"
+		},
+		"title": "Kritériá klasifikácie ",
+		"testId": "423335",
+		"type": "etestlesson"
+	}
+]

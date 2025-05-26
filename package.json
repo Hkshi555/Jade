@@ -1,0 +1,26 @@
+{
+  "name": "jade",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon src/index.ts --dev"
+  },
+  "author": "Hkshi555",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sapphire/framework": "^5.3.5",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "download": "^8.0.0",
+    "edupage-api": "^0.8.3",
+    "html-to-text": "^9.0.5",
+    "nodemon": "^3.1.10",
+    "playwright": "^1.52.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

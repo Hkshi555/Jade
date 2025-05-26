@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "target": "ES6",
+        "outDir": "out",
+        "resolveJsonModule": true,
+        "lib": [
+            "ESNext",
+            "ESNext.Array",
+            "ESNext.AsyncIterable",
+            "ESNext.Intl",
+            "ESNext.Symbol",
+            "DOM"
+        ],
+        "rootDir": "src",
+        "sourceMap": false,
+        "inlineSourceMap": true,
+        "incremental": true,
+        "inlineSources": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "src/**/*",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
