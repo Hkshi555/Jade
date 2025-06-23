@@ -65,7 +65,6 @@ export class EduCommand extends Command {
 							.setAutocomplete(true)
 							.setRequired(false),
 					),
-			/*{ guildIds: ["1015277694415548467"] },*/
 		);
 	}
 
@@ -292,8 +291,7 @@ export class EduCommand extends Command {
 					data.content,
 				);
 				for (const widget of homeworkData.widgets) {
-					//VideoETestWidget TextETestWidget FileETestWidget ElaborationETestWidget
-					fs.appendFileSync("./widget.json", JSON.stringify(widget));
+					//fs.appendFileSync("./widget.json", JSON.stringify(widget));
 					if (widget.widgetClass == "VideoETestWidget") {
 						videos.push(
 							this.stripHtmlTags(widget.props.source.src),
@@ -436,7 +434,7 @@ export class EduCommand extends Command {
 		);
 		this.edupage.exit();
 	}
-	public async messageRun(message) {}
+	public async messageRun(message) { }
 
 	private chunkString(str: string, length: number): string[] {
 		const chunks = [];
@@ -727,7 +725,7 @@ interface Plan {
 	students: (Student | undefined)[][];
 }
 
-interface ASC {}
+interface ASC { }
 
 interface Assignment {
 	edupage: Edupage;
