@@ -45,6 +45,14 @@ export class Client extends SapphireClient implements IClient {
 		this.database.exec(
 			"CREATE TABLE IF NOT EXISTS homeworkExists (id INTEGER PRIMARY KEY AUTOINCREMENT, superID TEXT, title TEXT, forumChannelID TEXT, forumID TEXT)",
 		);
+		//kickBD
+		this.database.exec(
+			"CREATE TABLE IF NOT EXISTS kick (id INTEGER PRIMARY KEY AUTOINCREMENT, userID TEXT, guildID TEXT, reason TEXT)",
+		)
+		//banBD
+		this.database.exec(
+			"CREATE TABLE IF NOT EXISTS ban (id INTEGER PRIMARY KEY AUTOINCREMENT, userID TEXT, guildID TEXT, reason TEXT), duration INTEGER)",
+		)
 		container.logger.info(`Logging in...`);
 		return super.login(
 			this.mode == "dev"
