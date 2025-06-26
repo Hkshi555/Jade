@@ -51,7 +51,7 @@ export class Client extends SapphireClient implements IClient {
 		)
 		//banBD
 		this.database.exec(
-			"CREATE TABLE IF NOT EXISTS ban (id INTEGER PRIMARY KEY AUTOINCREMENT, userID TEXT, guildID TEXT, reason TEXT), duration INTEGER)",
+			"CREATE TABLE IF NOT EXISTS ban (id INTEGER PRIMARY KEY AUTOINCREMENT, userID TEXT, guildID TEXT, reason TEXT, duration INTEGER)",
 		)
 		container.logger.info(`Logging in...`);
 		return super.login(
